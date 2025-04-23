@@ -1,0 +1,11 @@
+com\jobportal\repository\JobApplicationRepository.class
+com\jobportal\model\Job.class
+com\jobportal\model\JobApplication.class
+com\jobportal\security\CustomUserDetailsService.class
+com\jobportal\security\JwtRequestFilter.class
+com\jobportal\security\JwtUtil.class
+com\jobportal\model\User.class
+com\jobportal\repository\UserRepository.class
+com\jobportal\repository\JobRepository.class
+com\jobportal\JobPortalApplication.class
+com\jobportal\security\SecurityConfig.class
